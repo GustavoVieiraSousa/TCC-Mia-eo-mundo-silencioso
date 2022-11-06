@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 38a285e7b3e18574e907e061a596c298
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chuva_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ba9b755d6f73438929e3117dfe58e
+      internalID: -1781208871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_1
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 274
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5e14b63453cef44ba0e71cc178dc38
+      internalID: -352066291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 274
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49c43e46608df449de1ee147828f9c
+      internalID: 2021527124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_3
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 274
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583b6ccaf2899a64fa61000acbfefbc7
+      internalID: -1022032167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7911d867896bbfc4fb48f5bbe92c355c
+      internalID: -1496293738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 138
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa80fc9a8f4f01409711c4db4ddf9c0
+      internalID: 343676209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 139
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08df81a90328a4f95288d5fc3f68f6
+      internalID: 1147020817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_7
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 138
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec53f614444d2b4f8ef3a921575f06c
+      internalID: 1842068253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_9
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a2d16c7c5dfcf479d68db3e6fad135
+      internalID: 1772835761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chuva_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 326
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319d3bd29f89e149a153d3ae05f777b
+      internalID: -517808032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      chuva_54: -1346864478
+      chuva_11: -882357173
+      chuva_77: -1275005259
+      chuva_84: 1624760741
+      chuva_17: 1117373929
+      chuva_44: 750531087
+      chuva_53: 633525428
+      chuva_30: -914666569
+      chuva_36: 1293471088
+      chuva_64: 517271900
+      chuva_78: 1968192481
+      chuva_100: 690914648
+      chuva_85: -1043014932
+      chuva_103: -927853379
+      chuva_94: -1562914651
+      chuva_67: -1100062420
+      chuva_21: -1747338652
+      chuva_83: -1352692644
+      chuva_98: 590895286
+      chuva_12: 1858682904
+      chuva_28: -1379252394
+      chuva_73: 1885849166
+      chuva_16: -731699089
+      chuva_74: -795562330
+      chuva_9: 1772835761
+      chuva_47: 1978165547
+      chuva_68: 260492723
+      chuva_65: 1925291625
+      chuva_25: -434084062
+      chuva_15: -912816085
+      chuva_96: -2129714620
+      chuva_49: 1047686656
+      chuva_63: 1707005686
+      chuva_50: 813761728
+      chuva_93: 1050491262
+      chuva_70: 633845079
+      chuva_18: 15044958
+      chuva_79: 1888792822
+      chuva_2: 2021527124
+      chuva_32: -711198606
+      chuva_91: 635425256
+      chuva_58: 945794851
+      chuva_0: -1781208871
+      chuva_38: -1952010076
+      chuva_61: 561048876
+      chuva_39: -394798490
+      chuva_48: 1960099616
+      chuva_95: -301449366
+      chuva_34: -2032197560
+      chuva_1: -352066291
+      chuva_19: -1397111820
+      chuva_20: -1751504970
+      chuva_41: 939742823
+      chuva_45: -2117811626
+      chuva_51: -1813424666
+      chuva_90: 382364983
+      chuva_62: -1278494739
+      chuva_69: 1808869123
+      chuva_22: 895547489
+      chuva_37: -820950077
+      chuva_31: 1315314755
+      chuva_35: -124310044
+      chuva_13: 933167812
+      chuva_6: 1147020817
+      chuva_8: -517808032
+      chuva_57: 1795534087
+      chuva_14: 471405326
+      chuva_4: -1496293738
+      chuva_29: -1487475993
+      chuva_46: -6545932
+      chuva_71: 1369057330
+      chuva_55: -1836150322
+      chuva_86: 857941117
+      chuva_97: 453485134
+      chuva_27: 528788233
+      chuva_26: -1214165201
+      chuva_82: -1131261034
+      chuva_24: -709512856
+      chuva_80: 453347641
+      chuva_40: 1680955980
+      chuva_60: 996968545
+      chuva_59: 1835287310
+      chuva_5: 343676209
+      chuva_75: 280579423
+      chuva_87: 1717329866
+      chuva_102: 1927057733
+      chuva_7: 1842068253
+      chuva_72: -1332851572
+      chuva_52: 494604588
+      chuva_42: 1543294997
+      chuva_88: -644745994
+      chuva_3: -1022032167
+      chuva_101: 290841110
+      chuva_81: 939054629
+      chuva_92: 1881811028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
